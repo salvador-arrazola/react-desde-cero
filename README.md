@@ -1,2 +1,2 @@
-# react-desde-cero
-Udemy | React desde Cero a Experto (Hooks y MERN) | Fernando Herrera
+# react-from-zero
+Udemy | React from Zero to Expert (Hooks & MERN) | Fernando Herrera
